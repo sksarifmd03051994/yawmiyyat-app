@@ -1,0 +1,12 @@
+{
+  "name": "يَوْمِيَّات — ইয়াওমিয়্যাত",
+  "short_name": "ইয়াওমিয়্যাত",
+  "description": "ব্যক্তিগত দৈনিক, সাপ্তাহিক ও মাসিক আমল ও জীবন-হিসাব",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7ed",
+  "theme_color": "#075b43",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
